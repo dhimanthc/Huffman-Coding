@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644751608 source:d:\code\codeblocks\huffman coding project\huffman coding\main.cpp
+	<iostream>
+	<bitset>
+	<fstream>
+	<string>
+	<queue>
+	<unordered_map>
+
